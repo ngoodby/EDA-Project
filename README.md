@@ -6,7 +6,7 @@ The goal of this project was to understand which New York City subway stations a
 
 **Design**
 
-The mission of Transportation Alternatives is to reclaim New York City's streets from the automobile and advocate for better walking, biking, and public transit for all New Yorkers. Transportation Alternatives plans to collect signatures in support of their NYC 25x25 plan, which will be delivered to NYC’s city council at the end of 2022. They want to identify priority locations, dates, and times for collecting signatures, and subway stations are one of their identified targets. They are interested in identifying the busiest stations and understanding what days and times traffic at those stations tends to be highest.
+The mission of Transportation Alternatives is to *reclaim New York City's streets from the automobile and advocate for better walking, biking, and public transit for all New Yorkers.* Transportation Alternatives plans to collect signatures in support of their NYC 25x25 plan, which will be delivered to NYC’s city council at the end of 2022. They want to identify priority locations, dates, and times for collecting signatures, and subway stations are one of their identified targets. They are interested in identifying the busiest stations and understanding what days and times traffic at those stations tends to be highest.
 
 **Data**
 
