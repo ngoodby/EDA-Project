@@ -13,3 +13,10 @@ The mission of Transportation Alternatives is to *reclaim New York City's street
 NYC Metropolitan Transportation Authority Turnstile Data: http://web.mta.info/developers/turnstile.html
 
 This analysis began with acquiring all available MTA turnstile data from 2021. This data includes entry and exit counts for the turnstiles across all NYC subway stations. The initial dataset contained 10,717,660 observations. After cleaning the data, 8,646,820 observations remained and were used for analysis and visualization. 
+
+**Materials**
+
+* The code used to bring data from the MTA website into a SQL database can be found [here](https://github.com/ngoodby/EDA-Project/blob/7f20386fa7945d2e92c8811855e6b08bd9c8bc32/get_mta.py). Thank you to to folks at [Metis](https://www.thisismetis.com/) for providing this code. 
+* The code used to clean and visualize the data for this analysis can be found [here](https://github.com/ngoodby/EDA-Project/blob/7f20386fa7945d2e92c8811855e6b08bd9c8bc32/EDA_Project.ipynb).
+* Slides used to present findings can be found [here](https://github.com/ngoodby/EDA-Project/blob/7f20386fa7945d2e92c8811855e6b08bd9c8bc32/EDA_Presentation_Slides.pdf).
+* A brief summary of the project can be found [here](https://github.com/ngoodby/EDA-Project/blob/7f20386fa7945d2e92c8811855e6b08bd9c8bc32/EDA_Project_Summary.pdf).
